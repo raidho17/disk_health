@@ -1,0 +1,230 @@
+[
+  {
+    "device": "//./PhysicalDrive5",
+    "model": "ST1000DM003-1CH162",
+    "serial": "            Z1D8GQ5R",
+    "size_bytes": 1000204886016,
+    "smart": {
+      "temperature_c": 30,
+      "power_on_hours": 24979,
+      "load_cycle_count": 134576,
+      "start_stop_count": 3333,
+      "power_cycle_count": 3147
+    },
+    "risk": {
+      "level": "OK",
+      "score": 0,
+      "reasons": [],
+      "recommendations": [
+        "No immediate action needed"
+      ],
+      "notes": "No issues"
+    },
+    "volumes": [
+      {
+        "mountpoint": "L:\\",
+        "label": "D1Tb_2_courses",
+        "size_bytes": 1000202039296,
+        "free_bytes": 645992366080
+      }
+    ]
+  },
+  {
+    "device": "//./PhysicalDrive3",
+    "model": "ST1000DM010-2EP102",
+    "serial": "            W9AKWYMB",
+    "size_bytes": 1000204886016,
+    "smart": {
+      "temperature_c": 31,
+      "power_on_hours": 6428,
+      "load_cycle_count": 2335,
+      "start_stop_count": 2235,
+      "power_cycle_count": 946
+    },
+    "risk": {
+      "level": "OK",
+      "score": 0,
+      "reasons": [],
+      "recommendations": [
+        "No immediate action needed"
+      ],
+      "notes": "No issues"
+    },
+    "volumes": [
+      {
+        "mountpoint": "K:\\",
+        "label": "D1Tb_1",
+        "size_bytes": 1000097181696,
+        "free_bytes": 991676243968
+      }
+    ]
+  },
+  {
+    "device": "//./PhysicalDrive2",
+    "model": "ST2000DM001-1CH164",
+    "serial": "            Z1E57JLF",
+    "size_bytes": 2000398934016,
+    "smart": {
+      "temperature_c": 31,
+      "power_on_hours": 35830,
+      "load_cycle_count": 398011,
+      "start_stop_count": 65535,
+      "power_cycle_count": 54917
+    },
+    "risk": {
+      "level": "OK",
+      "score": 0,
+      "reasons": [],
+      "recommendations": [
+        "No immediate action needed"
+      ],
+      "notes": "No issues"
+    },
+    "volumes": [
+      {
+        "mountpoint": "G:\\",
+        "label": "D2Tb_Distrib",
+        "size_bytes": 951820742656,
+        "free_bytes": 220537085952
+      },
+      {
+        "mountpoint": "H:\\",
+        "label": "D2Tb_Media_DLNA",
+        "size_bytes": 1048574947328,
+        "free_bytes": 467245748224
+      }
+    ]
+  },
+  {
+    "device": "//./PhysicalDrive1",
+    "model": "HGST HUS726040ALE614",
+    "serial": "K4JEME0B",
+    "size_bytes": 4000787030016,
+    "smart": {
+      "temperature_c": 37,
+      "power_on_hours": 25277,
+      "load_cycle_count": 134550,
+      "start_stop_count": 123201,
+      "power_cycle_count": 118748
+    },
+    "risk": {
+      "level": "OK",
+      "score": 0,
+      "reasons": [],
+      "recommendations": [
+        "No immediate action needed"
+      ],
+      "notes": "No issues"
+    },
+    "volumes": [
+      {
+        "mountpoint": "D:\\",
+        "label": "D4Tb_Clouds",
+        "size_bytes": 536870907904,
+        "free_bytes": 4354514944
+      },
+      {
+        "mountpoint": "E:\\",
+        "label": "D4Tb_Documents",
+        "size_bytes": 1073741819904,
+        "free_bytes": 671711170560
+      },
+      {
+        "mountpoint": "F:\\",
+        "label": "D4Tb_Media",
+        "size_bytes": 2390037098496,
+        "free_bytes": 1605125353472
+      }
+    ]
+  },
+  {
+    "device": "//./PhysicalDrive6",
+    "model": "WDS500G3X0C-00SJG0",
+    "serial": "E823_8FA6_BF53_0001_001B_448B_464A_A1DC.",
+    "size_bytes": 500107862016,
+    "smart": {
+      "temperature_c": 43,
+      "power_on_hours": 21787,
+      "load_cycle_count": null,
+      "start_stop_count": null,
+      "power_cycle_count": null
+    },
+    "risk": {
+      "level": "OK",
+      "score": 0,
+      "reasons": [],
+      "recommendations": [
+        "No immediate action needed"
+      ],
+      "notes": "No issues"
+    },
+    "volumes": [
+      {
+        "mountpoint": "C:\\",
+        "label": "",
+        "size_bytes": 460501020672,
+        "free_bytes": 238464516096
+      }
+    ]
+  },
+  {
+    "device": "//./PhysicalDrive0",
+    "model": "WDC WD10EZEX-21WN4A0",
+    "serial": "        WCC6Y3PUU5A4",
+    "size_bytes": 1000204886016,
+    "smart": {
+      "temperature_c": 32,
+      "power_on_hours": 35555,
+      "load_cycle_count": 24410,
+      "start_stop_count": 2697,
+      "power_cycle_count": 342
+    },
+    "risk": {
+      "level": "OK",
+      "score": 0,
+      "reasons": [],
+      "recommendations": [
+        "No immediate action needed"
+      ],
+      "notes": "No issues"
+    },
+    "volumes": [
+      {
+        "mountpoint": "I:\\",
+        "label": "D1Tb_3",
+        "size_bytes": 999608545280,
+        "free_bytes": 154120716288
+      }
+    ]
+  },
+  {
+    "device": "//./PhysicalDrive4",
+    "model": "WDC WD10EZEX-21WN4A0",
+    "serial": "        WCC6Y1HNFP3C",
+    "size_bytes": 1000204886016,
+    "smart": {
+      "temperature_c": 33,
+      "power_on_hours": 10193,
+      "load_cycle_count": 5195,
+      "start_stop_count": 2848,
+      "power_cycle_count": 1034
+    },
+    "risk": {
+      "level": "OK",
+      "score": 0,
+      "reasons": [],
+      "recommendations": [
+        "No immediate action needed"
+      ],
+      "notes": "No issues"
+    },
+    "volumes": [
+      {
+        "mountpoint": "J:\\",
+        "label": "D1Tb_CWH",
+        "size_bytes": 1000202039296,
+        "free_bytes": 522576183296
+      }
+    ]
+  }
+]
